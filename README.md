@@ -30,4 +30,4 @@ Contendo os currículos do grupo e a implementação de um ou mais serviços na 
 [Site](http://curriculos.nayaraoliveira.repl.co/) 
 
 ### Apresentação no Canvas
-[Canvas](http://curriculos.nayaraoliveira.repl.co/](https://www.canva.com/design/DAFpIT8s5PI/O14hoBOBh8InA-6StxoACg/view?utm_content=DAFpIT8s5PI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)https://www.canva.com/design/DAFpIT8s5PI/O14hoBOBh8InA-6StxoACg/view?utm_content=DAFpIT8s5PI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) 
+[Canvas](https://www.canva.com/design/DAFpBfYW-EI/j_Zd2R0ANQ_MVLTjdFrQKA/edit?utm_content=DAFpBfYW-EI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
